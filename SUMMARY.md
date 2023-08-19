@@ -2,27 +2,27 @@
 
 * [🏠 Home](README.md)
 
-## 🙉 Overview
+## Overview
 
 * [💡 Introduction](overview/introduction.md)
 
-## 📖 Guides
+## Guides
 
 * [✨ Our Features](guides/our-features.md)
 
-## 🪙 Monsters Token
+## Monsters Token
 
-* [💰 MST Token](monsters-token/mst-token.md)
+* [🪙 MST Token](monsters-token/mst-token.md)
 * [📚 MST Economic](monsters-token/mst-economic.md)
 * [🤑 Liquidity Rewards](monsters-token/liquidity-rewards.md)
 * [🤝 Trade Rewards](monsters-token/trade-rewards.md)
 
-## 👾 Monsters DAO
+## Monsters DAO
 
-* [👺 DAO Overview](monsters-dao/dao-overview.md)
+* [👻 DAO Overview](monsters-dao/dao-overview.md)
 
-## 👻 OTHERS
+## OTHERS
 
 * [🐛 Bug Bounty](others/bug-bounty.md)
 * [👊 Ambassador](others/ambassador.md)
-* [🆙 UP COMING](others/up-coming.md)
+* [🆙 Up Coming](others/up-coming.md)

@@ -17,7 +17,7 @@ By participating in this bug bounty program, you play an integral role in ensuri
 
 #### To participate in the bug bounty program, follow these steps: <a href="#to-participate-in-the-bug-bounty-program-follow-these-steps" id="to-participate-in-the-bug-bounty-program-follow-these-steps"></a>
 
-* Join the Discord group: [<mark style="color:purple;">https://discord.gg/8wvJ2xeg</mark>](https://discord.gg/8wvJ2xeg.)​
+* Join the Discord group: ​[<mark style="color:purple;">discord.gg/zSckQTBj</mark>](https://discord.gg/zSckQTBj)
 * Contact the administrators to be added to the bug bounty program group.
 * Once added, you can submit the details of the identified vulnerabilities and provide your reward address for payout.
 

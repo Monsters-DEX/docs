@@ -2,14 +2,14 @@
 
 ### Program Overview <a href="#program-overview" id="program-overview"></a>
 
-Monsters.exchange is building the decentralized finance ecosystem of the future, featuring a capital-efficient decentralized leveraged trading platform on Arbitrum.For more information about Monsters.exchange, please visit website ：[​<mark style="color:purple;">monsters.exchange</mark>](https://monsters.exchange/) ​This bug bounty program is dedicated to identifying vulnerabilities within their smart contracts, website, and applications to prevent the following scenarios:
+Monsters.exchange is building the decentralized finance ecosystem of the future, featuring a capital-efficient decentralized leveraged trading platform on Arbitrum. For more information about Monsters.exchange, please visit website [​<mark style="color:purple;">monsters.exchange</mark>](https://monsters.exchange/) ​This bug bounty program is dedicated to identifying vulnerabilities within their smart contracts, website, and applications to prevent the following scenarios:
 
-1. 1.Direct theft of user funds, whether at rest or during transmission, except unclaimed yield.
-2. 2.Permanent freezing of funds.
-3. 3.Insolvency.
-4. 4.Theft of unclaimed yield.
-5. 5.Permanent freezing of unclaimed yield.
-6. 6.Temporary freezing of funds for at least 1 day.
+1. Direct theft of user funds, whether at rest or during transmission, except unclaimed yield.
+2. Permanent freezing of funds.
+3. Insolvency.
+4. Theft of unclaimed yield.
+5. Permanent freezing of unclaimed yield.
+6. Temporary freezing of funds for at least 1 day.
 
 By participating in this bug bounty program, you play an integral role in ensuring the security and robustness of the Monsters.exchange decentralized finance ecosystem. Your efforts contribute to a safer environment for users and their assets. For detailed information about the program's scope, rewards, and rules, please refer to the provided documentation or the Monsters.exchange website.
 

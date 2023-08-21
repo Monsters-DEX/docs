@@ -25,4 +25,3 @@
 
 * [🐛 Bug Bounty](others/bug-bounty.md)
 * [👊 Ambassador](others/ambassador.md)
-* [🆙 Up Coming](others/up-coming.md)

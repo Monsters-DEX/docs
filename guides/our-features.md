@@ -2,16 +2,14 @@
 
 ### Trading experience:
 
-1. **Full custody of your funds**\
-   \-> no deposit or signup
+1. **Free Signup**\
+   \->  wallet signup
 2. **Median spot prices**\
    \-> no scam-wicks
-3. **Crypto, forex, US stocks, HK stocks and commodities available**
+3. **Crypto, forex, US stocks, HK stocks and so on**
 4. **High leverages available**\
    \-> up to 150x on cryptos, 1000x on forex, 50x on stocks
 5. **Competitive fees**
-6. **Transparent & decentralized**\
-   \-> 100% on-chain execution of trades
 
 ### Trading engine:
 
@@ -24,10 +22,6 @@
 ## How does it work?
 
 Trades are USDT collateral, regardless of the trading pair. The leverage is synthetic and backed by the[ ](broken-reference)MST-USDT Vault, and the MST token.USDT is taken from the vault to pay the traders PNL (if positive) or receives USDT from trades their PnL was negative.
-
-### Powered by Chainlink
-
-While all derivatives platforms generate their own prices through order books or similar models, which often ends up in prices that do not correspond to the real spot price of the asset, we use a custom real-time [<mark style="color:purple;">Chainlink</mark>](https://chain.link/) node operators network to get the median price for each trading order.&#x20;
 
 ### Most fair
 
@@ -57,11 +51,31 @@ This is only possible because our architecture doesn't match buying/selling orde
 
 ### Current limitations
 
-1. Limit of 3 open trades per trading pair per wallet.\
-   \-> will be removed in the future
-2. Maximum open interest (long/short) per pair.\
+1. Maximum open interest (long/short) per pair.\
    \-> risk management for liquidity providers.
-3. Maximum open collateral (long/short) per asset class.\
+2. Maximum open collateral (long/short) per asset class.\
    \-> risk management for liquidity providers
-4. Winning percentage on each trade collateral capped at 900%.\
+3. Winning percentage on each trade collateral capped at 900%.\
    \-> risk management for liquidity providers
+
+
+
+## Fees
+
+Fees breakdown on all pairs, Trading fees will be charged upon both opening and closing a position, and they will vary based on different trading pairs.
+
+## Borrowing Fees
+
+1. Borrowing (long position) fee rate per hour, charged based on the borrowed amount.
+2. Borrowing (short position) fee rate per hour, charged based on the borrowed amount.
+
+## Overnight Interest
+
+Overnight interest rate, UTC+8, charged daily at 00:00, based on position size
+
+
+
+###
+
+
+

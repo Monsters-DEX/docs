@@ -2,7 +2,7 @@
 description: Welcome to Monsters DAO!
 ---
 
-# 👺 DAO Overview
+# 👻 DAO Overview
 
 ## DAO
 

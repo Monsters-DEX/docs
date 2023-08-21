@@ -1,4 +1,4 @@
-# 💰 MST Token
+# 🪙 MST Token
 
 ### Introduction
 

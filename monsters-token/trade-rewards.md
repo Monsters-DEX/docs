@@ -1,6 +1,6 @@
 # 🤝 Trade Rewards
 
-MST-Trade has reserved 150 million MST tokens and introduced a trading mining program aimed at providing users with attractive rewards and engagement opportunities. By participating in our trading mining activities, you can enjoy the following incentives and benefits:
+MST-Trade has reserved 100 million MST tokens and introduced a trading mining program aimed at providing users with attractive rewards and engagement opportunities. By participating in our trading mining activities, you can enjoy the following incentives and benefits:
 
 * **Trading Rewards:**&#x20;
 

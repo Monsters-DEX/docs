@@ -4,7 +4,7 @@ Monsters is decentralized trading platform free trading of crypto, forex, US sto
 
 ### Team
 
-1. Well (Founder, Strategy)
+1. Will (Founder, Strategy)
 2. Holmes (Backend dev, Product Manager)
 3. Wisen (Biz dev)
 4. Ryan (Biz dev)

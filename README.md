@@ -10,7 +10,7 @@ description: Welcome to our docs!
 
 1. &#x20;<img src=".gitbook/assets/image.png" alt="" data-size="line"> Monsters Exchange: [<mark style="color:purple;">monsters.exchange</mark>](https://monsters.exchange/)
 2. &#x20;<img src=".gitbook/assets/image.png" alt="" data-size="line"> Monsters Vault: [<mark style="color:purple;">monsters.exchange/treasury</mark>](https://monsters.exchange/treasury)
-3. &#x20;<img src=".gitbook/assets/image.png" alt="" data-size="line"> Monsters Trade: [<mark style="color:purple;">monsters.exchange/trade/BTC-USDT</mark>](https://monsters.exchange/trade/BTC-USDT)
+3. &#x20;<img src=".gitbook/assets/image.png" alt="" data-size="line"> Monsters Trade: [<mark style="color:purple;">monsters.exchange/trade</mark>](https://monsters.exchange/trade/BTC-USDT)
 
 ### Social medias
 

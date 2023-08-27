@@ -16,5 +16,5 @@ description: Welcome to our docs!
 
 1. &#x20; <img src=".gitbook/assets/image (1).png" alt="" data-size="line"> Twitter: [<mark style="color:purple;">twitter.com/monsters\_trade</mark>](https://twitter.com/monsters\_trade)
 2. &#x20; <img src=".gitbook/assets/image (4).png" alt="" data-size="line">  Telegram: [<mark style="color:purple;">t.me/+HEF19kIudTNlMjM1</mark>](https://t.me/+HEF19kIudTNlMjM1)
-3. <img src=".gitbook/assets/image (2).png" alt="" data-size="line">Discord: [<mark style="color:purple;">discord.gg/zSckQTBj</mark>](https://discord.gg/zSckQTBj)
+3. <img src=".gitbook/assets/image (2).png" alt="" data-size="line">Discord: [<mark style="color:purple;">discord.gg/2AKshXsf3T</mark>](https://discord.com/invite/2AKshXsf3T)
 

@@ -9,6 +9,7 @@
 ## Guides
 
 * [✨ Our Features](guides/our-features.md)
+* [💰 Fees](guides/fees.md)
 
 ## Monsters Token
 

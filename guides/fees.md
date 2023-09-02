@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In line with industry standard, **fees are calculated on the value of the total position size** (leverage x collateral).&#x20;
+In line with industry standard, **trade** **fees are calculated on the value of the total position size** (collateral x leverage). **Borrowing and overnight Interest** **fees are calculated on the borrowed value of the total position size**.
 
 ### Cryptocurrencies
 
@@ -60,7 +60,13 @@ Let's say we use **100 USDT** at **50x** leverage to long ETH/USD. The fee is ap
 
 ### **Borrowing Fee**s
 
-Borrowing fees are applied to trades while they are open. Borrowing fee rate per hour, charged based on the **borrowed amount**, rate is displayed on the trade page.
+Borrowing fees are applied to trades while they are open. Borrowing fee rate per hour, charged based on the **borrowed amount = (total position size - collateral size)**, rate is displayed on the trade page.
+
+
+
+### Overnight Interest
+
+Overnight Interest are applied to trades while they are open. Overnight interest, UTC+8, charged daily at 00:00, charged based on the **borrowed amount = (total position size - collateral size)**, rate is displayed on the trade page.
 
 
 

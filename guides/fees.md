@@ -78,4 +78,4 @@ No liquidation fees.
 
 ### Liquidation Prices
 
-Trades liquidation prices can **get closer** over time if you **pay borrowing fees**.
+Trades liquidation prices can **get closer** over time if you **pay borrowing fees or overnight Interest**.

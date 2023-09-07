@@ -24,15 +24,7 @@ In line with industry standard, **trade** **fees are calculated on the value of 
    * 0.008% -> Ecosystem
    * 0.002% -> Market/Limit
 
-### Forex (Tier 2)
 
-1. **Opening a trade: 0.015%**
-   * 0.012% -> Ecosystem
-     * 0.003-0.004% -> Referrer
-   * 0.003% -> Market/Limit
-2. **Closing a trade: 0.015%**
-   * 0.012% -> Ecosystem
-   * 0.003% -> Market/Limit
 
 ### US Stocks
 

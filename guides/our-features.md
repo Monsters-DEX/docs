@@ -8,7 +8,7 @@
    \-> no scam-wicks
 3. **Crypto, forex, US stocks, HK stocks and so on**
 4. **High leverages available**\
-   \-> up to 150x on cryptos, 1000x on forex, 150x on stocks
+   \-> up to 150x-500x on cryptos, 1000x on forex, 150x on stocks
 5. **Competitive fees**
 
 ### Trading engine:

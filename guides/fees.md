@@ -12,6 +12,7 @@ In line with industry standard, **trade** **fees are calculated on the value of 
    * 0.02% -> Market/Limit
 2. **Closing a trade: 0.07%**
    * 0.05% -> Ecosystem
+     * 0.014-0.02% -> Referrer
    * 0.02% -> Market/Limit
 
 ### Forex (Tier 1)
@@ -22,6 +23,20 @@ In line with industry standard, **trade** **fees are calculated on the value of 
    * 0.002% -> Market/Limit
 2. **Closing a trade: 0.01%**
    * 0.008% -> Ecosystem
+     * 0.002-0.003% -> Referrer
+   * 0.002% -> Market/Limit
+
+
+
+### Forex (Tier 2)
+
+1. **Opening a trade: 0.015%**
+   * 0.013% -> Ecosystem
+     * 0.003-0.0035% -> Referrer
+   * 0.002% -> Market/Limit
+2. **Closing a trade: 0.015%**
+   * 0.013% -> Ecosystem
+     * 0.003-0.0035% -> Referrer
    * 0.002% -> Market/Limit
 
 
@@ -34,6 +49,7 @@ In line with industry standard, **trade** **fees are calculated on the value of 
    * 0.02% -> Market/Limit
 2. **Closing a trade (0.08%)**
    * 0.06% -> Ecosystem
+     * 0.016-0.02% -> Referrer
    * 0.02% -> Market/Limit
 
 
@@ -44,7 +60,7 @@ In line with industry standard, **trade** **fees are calculated on the value of 
 
 Let's say we use **100 USDT** at **50x** leverage to long ETH/USD. The fee is applied to leveraged amount: **5,000 USDT**.
 
-5,000 \* 0.07% = **3.5 USDT fee**
+5,000 \* 0.07% = **3.5 USDT fee = Opening Fee**
 
 **5,000 USDT** is the  total position size
 

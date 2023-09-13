@@ -10,12 +10,6 @@ The market regulation mechanism of MST depends on the market regulation mechanis
 
 $$f(TVL) = Σ(Accumulated Deposits of USDT) + ΔPNL$$
 
-$$f(PRICE) =  Previous Price - Dividends - Interest$$
-
-$$f(CR) = USDT-TVL / MST-USDT *100%$$
-
-$$f(MST-USDT) = TVL / PRICE$$
-
 
 
 ## Operation Principle

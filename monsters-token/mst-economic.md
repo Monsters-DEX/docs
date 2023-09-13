@@ -10,6 +10,10 @@ The market regulation mechanism of MST depends on the market regulation mechanis
 
 $$f(TVL) = Σ(Accumulated Deposits of USDT) + ΔPNL$$
 
+CR = TVL / mUSDT
+
+
+
 
 
 ## Operation Principle
